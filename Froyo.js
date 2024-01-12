@@ -47,7 +47,7 @@ console.table(countWordOccurrences(stringFlavors));
 /* Checklist- doublecheck before submitting ^_^
 done---names are consistent
 done!!! So happy!---console output changes depending on the user's input***
----latest changes pushed to the submitted Github repo
+done---latest changes pushed to the submitted Github repo
 done---repot contains HTML and a connected JS file
 done? I think ---logic for counting the frequencies of elements in an array is organized into a function that returns an object
 Yes!---program correctly counts the number of each flavor in the user's input
